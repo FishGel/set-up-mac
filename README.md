@@ -16,7 +16,6 @@
 
 - [enpass](https://www.enpass.io/)，配套 iOS 版使用，管理常用密码  ‘土豪可以用1Password’
 - [Alfred](https://itunes.apple.com/cn/app/alfred/id405843582?mt=12) Mac 神软 快速启动工具，输入关键字后能够快速得定位出你想要的文件或程序 [了解更多](http://www.wellsnake.com/jekyll/update/2014/06/15/001/)
-- 
 
 ## 3. 开发工具
 
