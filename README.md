@@ -3,14 +3,19 @@
 
 ## 目录
 1. [OS X](#1-os-x)
+   - [F1-F12 改成标准功能键](#F1-F12 改成标准功能键)
 2. [常用工具](#2-常用工具)
 3. [开发工具](#3-开发工具)
  - 3.1 [Homebrew](#31-homebrew)
 
 ## 1. OS X
 
-- 关闭 Dock 的 Magnification，将 Dock 位置移到左侧。
-- 关闭 微信、QQ 的弹窗通知
+### F1-F12 改成标准功能键
+
+默认情况下，F1-F12 都是特殊功能，比如调节屏幕亮度。而当你需要键入 F1-F12 时（比如在使用 IntelliJ IDEA 的快捷键时），需要同时按住 Fn。这对于开发人员来说是非常不方便的。
+
+把 F1-F12 改成标准功能键：选择`System Preferences` > `Keyboard`，在`Keyboard`标签页中选中`Use all F1, F2, etc. keys as standard function keys`。
+
 
 ## 2. 常用工具
 
