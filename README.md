@@ -7,6 +7,8 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
 2. [常用工具](#2-常用工具)
 3. [开发工具](#3-开发工具)
  - 3.1 [Homebrew](#31-homebrew)
+ - 3.2 [IntelliJ IDEA](#32-IntelliJ IDEA)
+ 
 
 ## 1. OS X
 
@@ -29,12 +31,28 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
 在安装 Homebrew 之前，需要将 Xcode Command Line Tools 安装完成，这样你就可以使用基于 Xcode Command Line Tools 编译的 Homebrew。
 
 在 terminal 中复制以下命令（不包括 $），跟随指引，将完成 Hombrew 安装。
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+### 3.2 IntelliJ IDEA
+
+Java 开发必备工具 IntelliJ IDEA。可以安装 Ultimate Edition：
+
+```sh
+brew cask install intellij-idea
 ```
 
-安装完后，运行以下命令，确保 brew 运行正常。
+也可以安装开源免费的 Community Edition：
+
+```sh
+brew cask install intellij-idea-ce
 ```
-$ brew doctor
-```
-安装完成后，Homwbrew 会将本地 /usr/local 初始化为 git 的工作树，并将目录所有者变更为当前所操作的用户，将来 brew 的相关操作不需要 sudo 。
+
+IntelliJ IDEA 有几套内建的快捷键方案（Keymap）。其中适用于 OS X 的有`Mac OS X`和`Mac OS X 10.5+`两种。区别是:
+
+- `Mac OS X`方案和其他平台上的快捷键类似，
+- 而`Mac OS X 10.5+`更加符合 OS X 常用的快捷键。
+
+一个团队使用不同的快捷键会严重影响效率。可以用`View | Quick Switch Scheme`（`⌃ Back Quote`）快速切换 Keymap。
+
+如果可以选择的话，我建议使用`Mac OS X`方案。因为我经常遇到使用 Windows 的客户，而 Windows 平台上的快捷键和`Mac OS X`方案类似。
+
+可以从 IDEA 的`Help > Default Keymap Reference`打开快捷键的参考手册。不过从这里打开的是`Mac OS X 10.5+`方案的，而`Mac OS X`方案的可以从这里找到：<http://www.basrikahveci.com/static/ij_keymap_mac.pdf>。
