@@ -8,6 +8,7 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
 3. [开发工具](#3-开发工具)
  - 3.1 [Homebrew](#31-homebrew)
  - 3.2 [IntelliJ IDEA](#32-IntelliJ IDEA)
+ - 3.3 [Mysql 客户端](#33-Mysql Client)
  
 
 ## 1. OS X
@@ -54,3 +55,8 @@ IntelliJ IDEA 有几套内建的快捷键方案（Keymap）。其中适用于 OS
 一个团队使用不同的快捷键会严重影响效率。可以用`View | Quick Switch Scheme`（`⌃ Back Quote`）快速切换 Keymap。
 
 可以从 IDEA 的`Help > Default Keymap Reference`打开快捷键的参考手册。不过从这里打开的是`Mac OS X 10.5+`方案的，而`Mac OS X`方案的可以从这里找到：<http://www.basrikahveci.com/static/ij_keymap_mac.pdf>。
+
+### 3.3 Mysql Client
+ 这里推荐两个，看个人喜好。
+ 一个是官方的「[mysql-workbench](https://dev.mysql.com/downloads/file/?id=460634)」功能强大
+ 另外一个是「[sequelpro](http://sequelpro.com/)」，比较简洁。
