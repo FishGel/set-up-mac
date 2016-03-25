@@ -62,7 +62,7 @@ IntelliJ IDEA 有几套内建的快捷键方案（Keymap）。其中适用于 OS
  一个是官方的「[mysql-workbench](https://dev.mysql.com/downloads/file/?id=460634)」功能强大
  另外一个是「[sequelpro](http://sequelpro.com/)」，比较简洁。
  
- ### 3.4 SSH Client
+### 3.4 SSH Client
  这里也推荐两个。
  「[zoc6](http://www.emtec.com/zoc/)」界面优美
  「[shuttle](https://github.com/fitztrev/shuttle)」，比较简洁。
