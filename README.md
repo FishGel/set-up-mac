@@ -8,8 +8,8 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
 3. [开发工具](#3-开发工具)
  - 3.1 [Homebrew](#31-homebrew)
  - 3.2 [IntelliJ IDEA](#user-content-32-intellij-idea)
- - 3.3 [Mysql 客户端](#33-Mysql 客户端)
- - 3.4 [SSH 客户端](#34-SSH 客户端)
+ - 3.3 [Mysql 客户端](#user-content-33-mysql-客户端)
+ - 3.4 [SSH 客户端](#user-content-34-SSH-客户端)
  
 
 ## 1. OS X
