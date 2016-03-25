@@ -7,7 +7,7 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
 2. [常用工具](#2-常用工具)
 3. [开发工具](#3-开发工具)
  - 3.1 [Homebrew](#31-homebrew)
- - 3.2 [IntelliJ IDEA](#32-IntelliJ IDEA)
+ - 3.2 [IntelliJIDEA](#32-IntelliJIDEA)
  - 3.3 [Mysql 客户端](#33-Mysql 客户端)
  - 3.4 [SSH 客户端](#34-SSH 客户端)
  
@@ -34,7 +34,7 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
 
 在 terminal 中复制以下命令（不包括 $），跟随指引，将完成 Hombrew 安装。
 
-### 3.2 IntelliJ IDEA
+### 3.2 IntelliJIDEA
 
 Java 开发必备工具 IntelliJ IDEA。可以安装 Ultimate Edition：
 
@@ -62,7 +62,7 @@ IntelliJ IDEA 有几套内建的快捷键方案（Keymap）。其中适用于 OS
  一个是官方的「[mysql-workbench](https://dev.mysql.com/downloads/file/?id=460634)」功能强大
  另外一个是「[sequelpro](http://sequelpro.com/)」，比较简洁。
  
-### 3.4 SSH 客户端
+### 3.4 SSH 客户端 
  这里也推荐两个。
  「[zoc6](http://www.emtec.com/zoc/)」界面优美
  「[shuttle](https://github.com/fitztrev/shuttle)」，比较简洁。
