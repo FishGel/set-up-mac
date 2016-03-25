@@ -7,7 +7,7 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
 2. [常用工具](#2-常用工具)
 3. [开发工具](#3-开发工具)
  - 3.1 [Homebrew](#31-homebrew)
- - 3.2 [IntelliJIDEA](#32-IntelliJIDEA)
+ - 3.2 [IntelliJ IDEA](#32-IntelliJ)
  - 3.3 [Mysql 客户端](#33-Mysql 客户端)
  - 3.4 [SSH 客户端](#34-SSH 客户端)
  
@@ -34,7 +34,7 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
 
 在 terminal 中复制以下命令（不包括 $），跟随指引，将完成 Hombrew 安装。
 
-### 3.2 IntelliJIDEA
+### 3.2 IntelliJ IDEA
 Java 开发必备工具 IntelliJ IDEA。可以安装 Ultimate Edition：
 
 ```sh
