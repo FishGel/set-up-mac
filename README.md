@@ -10,6 +10,7 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
  - 3.2 [IntelliJ IDEA](#user-content-32-intellij-idea)
  - 3.3 [Mysql 客户端](#user-content-33-mysql-客户端)
  - 3.4 [SSH 客户端](#user-content-34-ssh-客户端)
+ - 3.5 [线框图工具](#user-content-35-OmniGraffle)
  
 
 ## 1. OS X
@@ -65,3 +66,8 @@ IntelliJ IDEA 有几套内建的快捷键方案（Keymap）。其中适用于 OS
  这里也推荐两个。
  「[zoc6](http://www.emtec.com/zoc/)」界面优美
  「[shuttle](https://github.com/fitztrev/shuttle)」，比较简洁。
+ 
+### 3.5 OmniGraffle
+ OmniGraffle 是一款很棒的线框图工具, 这里有一篇 [教程](http://beforweb.com/node/202).
+
+
