@@ -10,7 +10,7 @@ My OS X 工作环境 「一个 JAVA 开发者的 OS X 工作环境」
  - 3.2 [IntelliJ IDEA](#user-content-32-intellij-idea)
  - 3.3 [Mysql 客户端](#user-content-33-mysql-客户端)
  - 3.4 [SSH 客户端](#user-content-34-ssh-客户端)
- - 3.5 [线框图工具](#user-content-35-OmniGraffle)
+ - 3.5 [线框图工具](#user-content-35-omnigraffle)
  
 
 ## 1. OS X
